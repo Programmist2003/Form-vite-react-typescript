@@ -1,0 +1,108 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* h1.title-main */
+h1.title-main{
+  color: rgb(0, 8, 238);
+  stroke: 1px solid rgb(0, 8, 238);
+  position: absolute;
+width: 220px;
+height: 33px;
+left: 562px;
+top: 265px;
+  font-family: Bodoni MT;
+  font-size: 20px;
+  font-weight: 900;
+  line-height: 23px;
+  letter-spacing: 0px;
+  text-align: center;
+}
+/* input type username*/
+input.username[type=username]{
+  position: absolute;
+width: 315px;
+height: 44px;
+left: 515px;
+right: 450px;
+top: 324px;
+bottom: 432px;
+background: rgb(250, 249, 255);
+text-align: center;
+}
+/* input type email*/
+input.email[type=email]{
+  
+position: absolute;
+width: 315px;
+height: 44px;
+left: 515px;
+right: 450px;
+top: 400px;
+bottom: 356px;
+background: rgb(250, 249, 255);
+text-align: center;
+}
+/* input type password*/
+input.password[type=password]{
+  /* Прямоугольник 1 */
+position: absolute;
+width: 315px;
+height: 44px;
+left: 515px;
+right: 450px;
+top: 478.5px;
+bottom: 277.5px;
+background: rgb(250, 249, 255);
+text-align: center;
+}
+/* input type button login-in*/
+.login-in{
+  /* Прямоугольник 1 */
+position: absolute;
+width: 172px;
+height: 44px;
+left: 583px;
+right: 525px;
+top: 533px;
+bottom: 223px;
+border-radius: 45px;
+
+background: rgb(250, 249, 255);
+text-align: center;
+}
+/* input type button Sing-up*/
+.sign-up{
+  /* Прямоугольник 1 */
+position: absolute;
+width: 172px;
+height: 44px;
+left: 583px;
+right: 525px;
+top: 588px;
+bottom: 168px;
+border-radius: 45px;
+
+background: rgb(250, 249, 255);
+text-align: center;
+}
+/* a class forgot*/
+a.forgot{
+  /* Forgot password? Rest password */
+position: absolute;
+width: 309px;
+height: 97px;
+left: 526px;
+right: 445px;
+top: 640px;
+bottom: 63px;
+color: rgb(0, 0, 0);
+font-family: Bodoni MT;
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0px;
+text-align: center;
+}
